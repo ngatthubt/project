@@ -1,0 +1,66 @@
+@media screen and (max-width: 320px) {
+	.quangcao{
+		display: none;
+	}
+	#app{
+		margin-top: -14%;
+	}
+	#doChoi{
+		margin-top: -11%;
+	}
+	#internet{
+		margin-top: -24%;
+	}
+	#anh{
+		margin-top: -20%;
+	}
+	#khamPha{
+		margin-top: -11%;
+	}
+	#anh2{
+		margin-top: -17%;
+	}
+	#anh3{
+		margin-top: -30%;
+	}
+	#stay{
+		margin-top: -30%;
+	}
+	.anh4{
+		margin-top: -25%;
+	}
+	.traDa{
+		margin-top: -24%;
+	}
+	.anh5{
+		margin-top: 28%;
+	}
+	.anh6{
+		margin-top: 28%;
+	}
+	.chu{
+		margin-top: -30%;
+	}
+	#chu1{
+		display: none;
+	}
+	.anh7{
+		margin-top: -70%;
+	}
+	.anh8{
+		max-width: 22%;
+	}
+	.navbar-toggle{
+		margin-top: 6%;
+	}
+	.form-group{
+		display: none;
+	}
+	#carousel-id{
+		display: none;
+	}
+	.title{
+		margin-top: 35%;
+	}
+}
+
